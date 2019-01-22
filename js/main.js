@@ -55,7 +55,6 @@ function create ()
 
     // The player and its settings
     player = this.physics.add.sprite(100, 450, 'dude');
-    player.
 
     //  Player physics properties. Give the little guy a slight bounce.
     player.setBounce(0.2);
